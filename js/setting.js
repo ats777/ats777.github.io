@@ -10,14 +10,14 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'yokohama_budget';
-OpenSpending.year = '2012';
+OpenSpending.identifier = 'sabae_budget';
+OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
-  /* yokohama cofog */
+  /* sabae cofog */
   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
